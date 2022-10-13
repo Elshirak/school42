@@ -1,0 +1,2 @@
+#!/bim/bash
+git log --format='%H' -n5

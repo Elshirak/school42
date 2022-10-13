@@ -1,2 +1,1 @@
-
-Hello here is some text
+My 42 school projects in C.
